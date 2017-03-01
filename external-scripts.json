@@ -1,0 +1,14 @@
+[
+  "hubot-ambush",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-plusplus",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-stackstorm",
+  "hubot-youtube"
+]
